@@ -16,3 +16,4 @@ Custom code - Most integrations require custom logic. Code is often the best way
 
 hosted link;- https://akshay-shirsat.github.io/HTML-CSS-JS-MINI-PROJECT/
 
+github link: - https://github.com/Akshay-shirsat/HTML-CSS-JS-MINI-PROJECT.git
