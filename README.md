@@ -13,4 +13,4 @@ Actions - Actions are pre-built code steps that you can use in a workflow to per
 
 Custom code - Most integrations require custom logic. Code is often the best way to express that logic, so Pipedream allows you to run any Node.js, Python, Golang, or Bash code. You can import any package from the languages' package managers, connect to any Pipedream connected app, and more. Pipedream is "low-code" in the best way: you can use pre-built components when you're performing common actions, but you can write custom code when you need to.
 
-Destinations - Deliver events asynchronously to common destinations like Amazon S3, Snowflake, HTTP and email
+
